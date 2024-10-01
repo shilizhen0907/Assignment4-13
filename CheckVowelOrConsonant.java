@@ -8,10 +8,6 @@ public class CheckVowelOrConsonant {
         System.out.print("Enter a letter: ");
         String s = input.nextLine();
 
-        //test
-
-        //test2
-
         //check if the user enters a letter or more
         if (s.length() == 1) {
             //read a character from consele
